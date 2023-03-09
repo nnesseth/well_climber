@@ -1,0 +1,8 @@
+C:\Users\nness\Projects\Unity\WellClimber\bin\Release\WellClimber.exe.config
+C:\Users\nness\Projects\Unity\WellClimber\bin\Release\WellClimber.exe
+C:\Users\nness\Projects\Unity\WellClimber\bin\Release\WellClimber.pdb
+C:\Users\nness\Projects\Unity\WellClimber\obj\Release\WellClimber.csproj.CoreCompileInputs.cache
+C:\Users\nness\Projects\Unity\WellClimber\obj\Release\WellClimber.exe
+C:\Users\nness\Projects\Unity\WellClimber\obj\Release\WellClimber.pdb
+C:\Users\nness\Projects\Unity\WellClimber\obj\Release\WellClimber.csproj.AssemblyReference.cache
+C:\Users\nness\Projects\Unity\WellClimber\obj\Release\WellClimber.csproj.SuggestedBindingRedirects.cache

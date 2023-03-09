@@ -1,0 +1,7 @@
+C:\Users\nness\Projects\Unity\WellClimber\bin\Debug\WellClimber.exe.config
+C:\Users\nness\Projects\Unity\WellClimber\bin\Debug\WellClimber.exe
+C:\Users\nness\Projects\Unity\WellClimber\bin\Debug\WellClimber.pdb
+C:\Users\nness\Projects\Unity\WellClimber\obj\Debug\WellClimber.csproj.AssemblyReference.cache
+C:\Users\nness\Projects\Unity\WellClimber\obj\Debug\WellClimber.csproj.CoreCompileInputs.cache
+C:\Users\nness\Projects\Unity\WellClimber\obj\Debug\WellClimber.exe
+C:\Users\nness\Projects\Unity\WellClimber\obj\Debug\WellClimber.pdb
